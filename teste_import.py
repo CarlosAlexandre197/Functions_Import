@@ -22,3 +22,9 @@ print(juros_simples(1000, 3, 12))
 
 from meu_programa import mistura_palavras
 print(mistura_palavras('c', 'd'))
+
+#Função 05
+
+from meu_programa import descrição_livro
+descrição_livro('Menino Maluquinho', 'Ziraldo Alves')
+
