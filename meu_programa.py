@@ -22,3 +22,8 @@ def juros_simples(capital, taxa, tempo):
 
 def mistura_palavras(*args):
     return '_'.join(args)
+
+#Função 05
+
+def descrição_livro(titulo, autor = 'Desconhecido'):
+    print(f'Livro: {titulo}. / Autor: {autor}.')
