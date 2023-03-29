@@ -36,3 +36,9 @@ def par_impar(numero):
   else:
     return "Impar"
 
+#Função 07
+
+def mostra_ate_zero(numero):
+  while numero >= 0:
+     print(numero)
+      numero -= 1
