@@ -42,3 +42,9 @@ def mostra_ate_zero(numero):
   while numero >= 0:
      print(numero)
       numero -= 1
+    
+#Função 08
+
+def soma_3_numeros(a, b, c):
+  return a + b + c
+
