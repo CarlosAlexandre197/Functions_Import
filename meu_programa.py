@@ -27,3 +27,12 @@ def mistura_palavras(*args):
 
 def descrição_livro(titulo, autor = 'Desconhecido'):
     print(f'Livro: {titulo}. / Autor: {autor}.')
+    
+#Função 06
+
+def par_impar(numero):
+  if numero % 2 == 0:
+    return "Par"
+  else:
+    return "Impar"
+
