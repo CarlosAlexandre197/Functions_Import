@@ -32,3 +32,8 @@ descrição_livro('Menino Maluquinho', 'Ziraldo Alves')
 
 from meu_programa import par_impar
 print(par_impar(2))
+
+#Função 07
+
+from meu_programa import mostra_ate_zero
+print(mostra_ate_zero(2))
