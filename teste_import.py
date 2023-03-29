@@ -28,3 +28,7 @@ print(mistura_palavras('c', 'd'))
 from meu_programa import descrição_livro
 descrição_livro('Menino Maluquinho', 'Ziraldo Alves')
 
+#Função 06
+
+from meu_programa import par_impar
+print(par_impar(2))
