@@ -37,3 +37,9 @@ print(par_impar(2))
 
 from meu_programa import mostra_ate_zero
 print(mostra_ate_zero(2))
+
+#Função 08
+
+from meu_programa import soma_3_numeros
+print(soma_3_numeros(3, 6, 2))
+
