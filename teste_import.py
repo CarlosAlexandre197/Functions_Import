@@ -47,3 +47,9 @@ print(soma_3_numeros(3, 6, 2))
 
 from meu_programa import positivo_negativo_zero
 print(positivo_negativo_zero(5))
+
+#Função 10
+
+from meu_programa import gorjeta
+resultado = gorjeta(100, 15)
+print(f"{resultado:.2f}")
