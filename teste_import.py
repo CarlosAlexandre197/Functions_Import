@@ -59,3 +59,9 @@ print(f"{resultado:.2f}")
 from meu_programa import conta_letras
 saida = conta_letras('a', 'abelha')
 print(saida)
+
+#Função 12
+
+from meu_programa import verifica_prefixo
+resultado = verifica_prefixo('programa', 'programador')
+print(resultado)
