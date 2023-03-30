@@ -57,3 +57,8 @@ def positivo_negativo_zero(numero):
     return "Positivo"
   else:
     return "Negativo"
+
+#Função 10
+
+def gorjeta(valor, porcentagem):
+  return valor * porcentagem / 100
