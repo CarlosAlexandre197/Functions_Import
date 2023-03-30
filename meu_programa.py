@@ -62,3 +62,12 @@ def positivo_negativo_zero(numero):
 
 def gorjeta(valor, porcentagem):
   return valor * porcentagem / 100
+
+#Função 11
+
+def conta_letras(letra_buscada, palavra):
+  contagem = 0 
+  for letra_atual in palavra:
+    if letra_atual == letra_buscada:
+      contagem += 1
+  return contagem
