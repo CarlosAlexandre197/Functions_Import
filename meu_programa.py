@@ -48,3 +48,12 @@ def mostra_ate_zero(numero):
 def soma_3_numeros(a, b, c):
   return a + b + c
 
+#Função 09 
+
+def positivo_negativo_zero(numero):
+  if numero == 0:
+    return "Zero"
+  elif numero > 0:
+    return "Positivo"
+  else:
+    return "Negativo"
