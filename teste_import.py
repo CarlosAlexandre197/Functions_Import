@@ -53,3 +53,9 @@ print(positivo_negativo_zero(5))
 from meu_programa import gorjeta
 resultado = gorjeta(100, 15)
 print(f"{resultado:.2f}")
+
+#Função 11
+
+from meu_programa import conta_letras
+saida = conta_letras('a', 'abelha')
+print(saida)
