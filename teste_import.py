@@ -43,3 +43,7 @@ mostra_ate_zero(5)
 from meu_programa import soma_3_numeros
 print(soma_3_numeros(3, 6, 2))
 
+#Função 09
+
+from meu_programa import positivo_negativo_zero
+print(positivo_negativo_zero(5))
