@@ -36,7 +36,7 @@ print(par_impar(2))
 #Função 07
 
 from meu_programa import mostra_ate_zero
-print(mostra_ate_zero(2))
+mostra_ate_zero(5)
 
 #Função 08
 
