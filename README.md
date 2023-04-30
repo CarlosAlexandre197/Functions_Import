@@ -1,2 +1,2 @@
-# Funcoes_Import
-Minhas funções e seus testes depois da utilização do "import".
+# Functions_Import
+My functions and their tests after using "import".
