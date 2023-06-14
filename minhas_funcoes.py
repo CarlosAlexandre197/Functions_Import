@@ -1,4 +1,4 @@
-#Função 00
+#Função 000
 
 def apresentacao(nome, idade, sexo):
     print(f'Olá, {nome}! \nSua idade é: {idade}. \nSexo: {sexo}.')
